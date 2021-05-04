@@ -1,0 +1,41 @@
+{
+    "type": "sa",
+    "sa": {
+        "max_step": 20000,
+        "p_init": 0.0001,
+        "lambda": 35,
+        "function_constant": 0.99,
+        "point": [
+            {
+                "index": 5,
+                "name": "Contamination tape fails",
+                "value": 147.98
+            },
+            {
+                "index": 0,
+                "name": "Common cause seal failure",
+                "value": 133.13
+            },
+            {
+                "index": 2,
+                "name": "Metal-to-metal seal failure",
+                "value": 25.71
+            },
+            {
+                "index": 1,
+                "name": "Compression seal 1 fails",
+                "value": 119.41
+            },
+            {
+                "index": 3,
+                "name": "Compression seal 2 fails",
+                "value": 145.51
+            },
+            {
+                "index": 4,
+                "name": "Fused plug fails",
+                "value": 150.34
+            }
+        ]
+    }
+}
