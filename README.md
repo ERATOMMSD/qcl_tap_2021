@@ -1,4 +1,11 @@
-# Concrete Confidence Logic
+# Architecture-Guided Test Resource Allocation Via Logic
+(TAP2021 Publication Supporting Data)
+
+* Find the experimental data in the [`evaluation`](evaluation) subfolder, including the trigger scripts.
+* The Python API and helper classes are located in [`pyASTRAHL`](pyASTRAHL). 
+* Evaluation scripts and Jupyter notebooks are in [`notebooks`](notebooks)
+* [`src`](src) contains the main tool source code (and the Makefile to build it)
+* Below you can find some help for building and using it.
 
 ## Installing
 
